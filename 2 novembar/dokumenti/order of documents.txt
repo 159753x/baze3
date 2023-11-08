@@ -1,0 +1,10 @@
+4467 -> 4474 -> 4475(evidencija proverene opreme) -> uput -> lekarski izvestaj -> 4479(evidencija lekarskih) -> 4472(evidencija opsosobljenih)
+
+Potprocesi:
+1.4467 + 4474 = provera radnih mesta
+2.4475 = provera opreme
+3.uput + lekarski izvestaj(li) + evidencija li = zdravstvena provera zaposlenih
+4.4472 = osposobljavanje zaposlenih za rad
+5.odgovarajuc dokument za prijavu povrede/oboljenja na radu + 4469(povreda)/4470(oboljenje) = povreda/oboljenje na radu
+
+1 -> 2 -> 3 -> 4 -> 5
