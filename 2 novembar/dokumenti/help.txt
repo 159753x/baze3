@@ -1,9 +1,31 @@
-67 - 74 - 68 - 72 - (69 i 70) / radna mesta i evidencija o ljudima
-75 - 76 / oprema
-uput - izvrsen prethodni lekarski pregled / pregledi
+4467 -> 4474 -> 4475(evidencija proverene opreme) -> uput -> lekarski izvestaj -> 4479(evidencija lekarskih) -> 4472(evidencija opsosobljenih)
 
-ko overava dokument i ko popunjava ova dokumenta???
-sta ide prvo izmedju 67 i 74????
-podela 68 69 70 i 72 gde idu tj za koji potproces????
+Potprocesi:
+1.4467 + 4474 = provera radnih mesta
+2.4475 = provera opreme
+3.uput + lekarski izvestaj(li) + evidencija li = zdravstvena provera zaposlenih
+4.4472 = osposobljavanje zaposlenih za rad
+5.odgovarajuc dokument za prijavu povrede/oboljenja na radu + 4469(povreda)/4470(oboljenje) = povreda/oboljenje na radu
 
-3 potprocesa - za radna mesta, ljude, opremu
+1 -> 2 -> 3 -> 4 -> 5
+  
+////////////////////////////////////////////////////////////////////////////////
+
+Kome poslodavac salje overena i potpisana dokumenta? 
+-Nakon sto ih potpise, jednu kopiju dobija zaposleni 
+(radi se o evidenciji povrede na radu, u OBAVEZI je da obavesti radnika i da mu da neophodna dokumenta). 
+Poslodavac to sve cuva u arhivi/bazi podataka, a po potrebi ih salje na inspekciju (na zahtev). 
+Te inspekcije su eksterne, drzavne (inspekcije za bezbednost na radu/razlicite agencije)
+
+Da li je lice za bezbednost interno radno mesto?
+-Da, lice za bezbednost je interno radno mesto. Ova pozicija varira od drzave do drzave, ali konkretno za Srbiju, 
+ta pozicija mora da postoji, posebno kad su u pitanja radna mesta sa povecanim rizikom. 
+Konkretno ova firma je Zorka Sabac,  grana o kojoj se radi (laboratorija gde prave razlicita djubriva). 
+To ukljucuje i evidenciju o zastitnoj opremi. Takodje je to lice zaduzeno za organizovanje obuka 
+i kako se pravilno koristi zastitna oprema i za sta.
+
+Da li postoji neko razdvajanje na potprocese na tom radnom mestu?(3 potprocesa - za radna mesta, zaposene, opremu)
+-Razdvaja se papirologija za radnu opremu, radno mesto i zaposlenog, 
+ali su sve te stvari i vodjenje evidencije nadleznost lica za bezbednost u okviru firme.
+
+///////////////////////////////////////////////////////////////////////
