@@ -29,3 +29,5 @@ Da li postoji neko razdvajanje na potprocese na tom radnom mestu?(3 potprocesa -
 ali su sve te stvari i vodjenje evidencije nadleznost lica za bezbednost u okviru firme.
 
 ///////////////////////////////////////////////////////////////////////
+
+1
